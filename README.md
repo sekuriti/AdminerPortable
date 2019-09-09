@@ -9,7 +9,7 @@ For bootstrap version visit https://github.com/natanfelles/adminer-bootstrap-lik
 # Adminer Spesification
 Supports: MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, SimpleDB, Elasticsearch, MongoDB, Firebird
 
-Standalone, no need instalation
+Standalone, no need installation
 
 Portable USB support
 
