@@ -1,2 +1,2 @@
-# Adminer Portable
+# Adminer Portable Exe
 Adminer Portable
