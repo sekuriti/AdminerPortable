@@ -14,3 +14,5 @@ Standalone, no need instalation
 Portable USB support
 
 No need Apache or Nginx and No need PHP
+
+Run on Windows 7 or newer or Wine Linux
