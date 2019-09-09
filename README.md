@@ -1,2 +1,2 @@
-# adminer
+# Adminer Portable
 Adminer Portable
